@@ -21,4 +21,4 @@
 
 - ищу новые тонкости стриминга и превращаю их в маленькие полезные штуки.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=koflirodyr-ctrl&show_icons=true&theme=transparent&hide_title=true&hide_border=true&locale=ru)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koflirodyr-ctrl&theme=transparent&hide_border=true&locale=ru)
